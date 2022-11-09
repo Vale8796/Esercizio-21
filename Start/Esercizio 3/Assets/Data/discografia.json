@@ -1,0 +1,51 @@
+{
+    "famiglia": [
+        {
+            "id": 1,
+            "nome": "Valeria",
+            "cognome": "Mancuso",
+            "anni": 26
+            
+        },
+        {
+            "id": 2,
+            "nome": "Bryan",
+            "cognome": "Barnachia",
+            "anni": 29
+        },
+        {
+            "id": 3,
+            "nome": "Nino",
+            "cognome": "Mancuso",
+            "anni": 61
+        },
+        {
+            "id": 4,
+            "nome": "Massimo",
+            "cognome": "Mancuso",
+            "anni": 28
+        }
+    ],
+    "libri": [
+        {
+            "autore": "Nicholas Sparks",
+            "titolo": "Ho Cercato Il Tuo Nome"
+        },
+        {
+            "autore": "Kira Shell",
+            "titolo": "Kiss Me"
+        },
+        {
+            "autore": "Cassandra Clare",
+            "titolo": "Shadowhunters"
+        },
+        {
+            "autore": "Jojo Moyes",
+            "titolo": "Me Before You"
+        },
+        {
+            "autore": "Lauren Kate",
+            "titolo": "Teardrop"
+        }
+    ]
+}
